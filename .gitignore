@@ -1,0 +1,9 @@
+# .NET
+bin/
+obj/
+.vs/
+appsettings.json
+
+# Node.js (React)
+node_modules/
+build/
